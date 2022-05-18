@@ -1,5 +1,5 @@
 # Awesome-Book-paper-tool
-A curated list of amazing book, libraries, software and resources.
+A curated list of amazing books, libraries, software, resources and anything.
 
 ## Machine Learning
 
