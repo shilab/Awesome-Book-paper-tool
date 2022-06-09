@@ -2,11 +2,7 @@
 A curated list of amazing books, libraries, software, resources and anything.
 
 ## Programming. 
-
-* **scrape**
-        https://github.com/mrafa3/AirbnbScrape/blob/master/AirbnbWrapUp.ipynb  (a function that scrapes Airbnb)  
-        http://hamelsmu.github.io/AirbnbScrape/  (a data science course project)  
-        http://www.verginer.eu/blog/web-scraping-airbnb/ (demonstrating a Python package with Airbnb scraping)       
+       
 * **Python**  
 https://github.com/CIS3715-temple-2019/CIS3715-temple-2019.github.io/blob/master/CIS3715%20(Temple%20-%20Spring%202019)%20PythonBasics%20-%20Lab1.ipynb  
 
